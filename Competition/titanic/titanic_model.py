@@ -16,4 +16,4 @@ model.fit(x_train,train_data['Survived'])
 predictions = model.predict(x_test)
 
 output = pd.DataFrame({'PassengerId': test_data.PassengerId, 'Survived': predictions})
-output.to_csv('predictions.csv')
+output.to_csv('predictions.csv', index=False)
