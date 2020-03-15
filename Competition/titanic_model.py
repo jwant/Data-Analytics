@@ -1,10 +1,13 @@
+from . import plotting
+from sklearn.ensemble import RandomForestClassifier
+from matplotlib import pyplot as plt
 import numpy as np
 import pandas as pd
-from sklearn.ensemble import RandomForestClassifier
-
 
 train_data = pd.read_csv('train.csv')
 test_data = pd.read_csv('test.csv')
+print(train_data)
+
 
 features = ["Pclass","Sex","SibSp","Parch"]
 x_train = pd.get_dummies(train_data[features])
