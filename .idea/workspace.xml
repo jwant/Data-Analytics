@@ -10,68 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment_2/assignment_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="28" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lectures/lecture_5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lectures/lecture_6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lectures/lecture_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lectures/lecture_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignment_3/assignment_3_example.py">
+        <entry file="file://$PROJECT_DIR$/assignment_3/Assignment 3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="28">
+              <caret line="29" selection-start-line="29" selection-end-line="33" selection-end-column="53" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -99,14 +42,16 @@
         <option value="$PROJECT_DIR$/lectures/lecture_6.py" />
         <option value="$PROJECT_DIR$/assignment_2/assignment_2.py" />
         <option value="$PROJECT_DIR$/assignment_3/assignment_3.py" />
+        <option value="$PROJECT_DIR$/assignment_3/assignment_3_example.py" />
+        <option value="$PROJECT_DIR$/assignment_3/Assignment 3.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="983" />
-    <option name="height" value="1043" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="984" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -114,17 +59,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Data-Analytics" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Analytics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data-Analytics" type="b2602c69:ProjectViewProjectNode" />
@@ -140,13 +81,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assignment_3/assignment_3.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assignment_3/Assignment 3.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -205,7 +145,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\chubb\OneDrive\Desktop\Work\Introduction to Data Anlaytics\Data-Analytics\assignment_3\assignment_3_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment_3/Assignment 3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,24 +203,24 @@
       <workItem from="1588146276363" duration="4345000" />
       <workItem from="1589443881296" duration="598000" />
       <workItem from="1589517303140" duration="3045000" />
-      <workItem from="1590301391258" duration="4054000" />
+      <workItem from="1590301391258" duration="4685000" />
+      <workItem from="1590730152339" duration="1497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33135000" />
+    <option name="totallyTimeSpent" value="35263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7409639" visible="true" weight="0.19805983" />
-      <window_info id="Structure" order="1" sideWeight="0.25903615" side_tool="true" visible="true" weight="0.19805983" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.41269842" visible="true" weight="0.20129345" />
+      <window_info id="Structure" order="1" sideWeight="0.5873016" side_tool="true" visible="true" weight="0.20129345" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.11702128" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.429078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35460994" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5035461" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -289,7 +229,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.7765958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -323,13 +263,16 @@
           <line>36</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assignment_3/Assignment 3.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="df_test['ID','Predicted']" language="Python" />
-        <watch expression="df_test.to_csv(&quot;LogisticReg_v0.csv&quot;,header='ID')" language="Python" />
-        <watch expression="df_test[['ID','Predicted']].copy()" language="Python" />
+        <watch expression="sorted(key_importance, key=lambda a: a[1])" language="Python" />
       </configuration>
     </watches-manager>
   </component>
@@ -338,10 +281,20 @@
     <SUITE FILE_PATH="coverage/Data_Analytics$Data_Analytics_Interpreter.coverage" NAME="Assignment 2 Interpreter Coverage Results" MODIFIED="1587708578314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lectures" />
     <SUITE FILE_PATH="coverage/Data_Anlaytics$Data_Analytics_Interpreter.coverage" NAME="Data Analytics Interpreter Coverage Results" MODIFIED="1584076721498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Competition/titanic" />
     <SUITE FILE_PATH="coverage/Data_Analytics$Assignment_2_Interpreter.coverage" NAME="Assignment 2 Interpreter Coverage Results" MODIFIED="1589526460685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment_2" />
-    <SUITE FILE_PATH="coverage/Data_Analytics$Assignment_3_Interpreter.coverage" NAME="Assignment 3 Interpreter Coverage Results" MODIFIED="1590312161867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment_3" />
+    <SUITE FILE_PATH="coverage/Data_Analytics$Assignment_3_Interpreter.coverage" NAME="Assignment 3 Interpreter Coverage Results" MODIFIED="1590730497608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment_3" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>sorted(key_importance, key=lambda a: a[1])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sorted(key_importance, lambda a: a[1])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>df_test[['ID','Predicted']].copy()</expression-string>
         <language-id>Python</language-id>
@@ -379,16 +332,6 @@
       </expression>
       <expression>
         <expression-string>df['Sex']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>df[0]['Sex']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>df['Male']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -440,16 +383,26 @@
     <entry file="file://$PROJECT_DIR$/lectures/lecture_2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignment_2/assignment_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lectures/lecture_5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="4" />
+          <caret selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lectures/lecture_6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -459,7 +412,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lectures/lecture_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="170">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -477,20 +430,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment_2/assignment_2.py">
+    <entry file="file://$PROJECT_DIR$/assignment_3/assignment_3_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-end-line="11" />
+        <state relative-caret-position="161">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment_3/assignment_3_example.py">
+    <entry file="file://$PROJECT_DIR$/assignment_3/Assignment 3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="28">
+          <caret line="29" selection-start-line="29" selection-end-line="33" selection-end-column="53" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
